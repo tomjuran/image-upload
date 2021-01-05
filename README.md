@@ -1,3 +1,5 @@
+# About
+An image uploading web app, used to keep track of employees in company with an description of there work, name and a picture
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
